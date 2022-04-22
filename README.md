@@ -3,7 +3,7 @@
     🌱 I’m currently learning python, c# and kali linux
     📫 You can reach me here on github :)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan)
 
 Courses im done with:
 
