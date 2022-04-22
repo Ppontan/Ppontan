@@ -1,16 +1,13 @@
-### Hi there 👋
+    👋 Hi, I’m Pontus!
+    👀 I’m interested in learning more about coding in general, i'm new and my goal is to work as a pentester :)
+    🌱 I’m currently learning python, c# and kali linux
+    📫 You can reach me here on github :)
 
-<!--
-**Ppontan/Ppontan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan
 
-Here are some ideas to get you started:
+Courses im done with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Programming 1, python & c# - 2021-06-12 to 2022-02-18 ✔️
+    Administration 1 - 2022-01-17 to 2022-02-21 ✔️
+    Administration 2 - 2022-02-21 to 202204-22 ✔️
+    Computer Engineering 1a 2022-03-28 to (in progress)
