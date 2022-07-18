@@ -11,3 +11,8 @@ Courses im done with:
     Administration 1 - 2022-01-17 to 2022-02-21 ✔️
     Administration 2 - 2022-02-21 to 2022-04-22 ✔️
     Computer Engineering 1a 2022-03-28 to 2022-05-07✔️
+    Computer and network technology 2022-04-25 to 2022-06-10✔️
+    Information and communication 1 Soon starting
+    Information and communication 2
+    Web server programming 1
+    Web development 1
