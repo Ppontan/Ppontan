@@ -5,6 +5,12 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan)
 
+Languages:
+Python
+c#
+Javascript
+
+
 Courses im done with:
 
     Programming 1, python & c# - 2021-06-12 to 2022-02-18 ✔️
