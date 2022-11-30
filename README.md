@@ -1,6 +1,6 @@
     👋 Hi, I’m Pontus! I'm currently working as an consultant boss
     👀 I’m interested in learning more
-    🌱 I have a huge interest in cyber security
+    🌱 I have a huge interest in cyber security and game development
     📫 You can reach me here on github :)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan)
