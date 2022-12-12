@@ -11,6 +11,8 @@ c#
 Javascript
 css
 html
+php
+.net
 
 Extra skills:
 network security, Databases, Web development, Webserver programming. Communication. Computer engineering. Administration
