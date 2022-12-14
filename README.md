@@ -25,7 +25,7 @@ Courses im done with:
     Administration 2 ✔️
     Computer Engineering 1a ✔️
     Computer and network technology ✔️
-    Information and communication 1 Soon starting ✔️
+    Information and communication 1 ✔️
     Information and communication 2 ✔️
     Web server programming 1
     Web development 1
