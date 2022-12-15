@@ -29,3 +29,13 @@ Courses im done with:
     Information and communication 2 ✔️
     Web server programming 1
     Web development 1
+
+Plan to study on microsoft:
+https://learn.microsoft.com/sv-se/training/azure/
+https://learn.microsoft.com/sv-se/training/courses/sc-300t00
+https://learn.microsoft.com/sv-se/training/courses/sc-200t00
+https://learn.microsoft.com/sv-se/training/paths/csharp-first-steps/
+https://learn.microsoft.com/sv-se/training/paths/build-dotnet-applications-csharp/
+
+Currently studying on microsoft:
+https://learn.microsoft.com/sv-se/training/courses/az-500t00
