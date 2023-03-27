@@ -1,4 +1,4 @@
-    👋 Hi, I’m Pontus! I'm currently working part time and studying to work in IT!
+    👋 Hi, I’m Pontus! I'm currently working in IT as a system developer
     👀 I’m interested in learning more
     🌱 I have a huge interest in cyber security, administration and web development. 
     📫 You can reach me here on github or linked in.
