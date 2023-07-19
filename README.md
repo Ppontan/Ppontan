@@ -9,3 +9,5 @@ network security, Databases, Web development, Webserver programming. Communicati
 Big projects ive been in:
 https://shop.svenskfotboll.se/
 https://shop.neh.com/motionslandslaget/
+
+I have also developed many internal shops for companies which I can not show here :) 
