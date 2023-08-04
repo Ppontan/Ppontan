@@ -10,9 +10,9 @@ Languages: Python, c#, Javascript, css, html, php
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Skills: network security, Databases, Web development, Webserver programming. Communication. Computer engineering. Administration, Microsoft Businesscentral, Systemd eveloping 
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Big projects:
-https://shop.svenskfotboll.se/
-https://shop.neh.com/motionslandslaget/
-https://shop.neh.com/golfenssmvecka/produkter/85837-produktpaket-golfens-sm-vecka-2023
+https://shop.svenskfotboll.se/<br>
+https://shop.neh.com/motionslandslaget/<br>
+https://shop.neh.com/golfenssmvecka/produkter/85837-produktpaket-golfens-sm-vecka-2023<br>
 (FYI I cant show everything here since a lot of websites are internal websites)
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Responsibilities:
