@@ -17,3 +17,5 @@ In this system you can create discount codes, couponcodes, make articles with fu
 
 I have also developed many internal shops for companies
 + Experience with shopify and wordpress
+
+![](https://komarev.com/ghpvc/?username=Ppontan)
