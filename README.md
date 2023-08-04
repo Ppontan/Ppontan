@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pontus+Eriksson+sytem+developer)](https://git.io/typing-svg)
     👋 Hi, I’m Pontus! I'm currently working in IT as a system developer
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan)
 
