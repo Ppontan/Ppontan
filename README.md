@@ -7,7 +7,16 @@ Languages: Python, c#, Javascript, css, html, php
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Language: PHP, css, html, python, c#
 
-<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Skills: network security, Databases, Web development, Webserver programming. Communication. Computer engineering. Administration, Microsoft Businesscentral, Systemd eveloping 
+<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Skills:
+* Network security
+* Databases
+* Web development
+* Webserver programming
+* Communication.
+* Computer engineering.
+* Administration
+* Microsoft Businesscentral
+* System developing 
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Big projects:<br>
 https://shop.svenskfotboll.se/<br>
@@ -25,5 +34,3 @@ I have also developed many internal shops for companies
 + Experience with shopify and wordpress
 
 ![](https://komarev.com/ghpvc/?username=Ppontan)
-
-
