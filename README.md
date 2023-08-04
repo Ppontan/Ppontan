@@ -3,8 +3,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan)
 
-Languages: Python, c#, Javascript, css, html, php
-
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Language: PHP, Python, C#
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Web: HTML, CSS
