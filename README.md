@@ -10,4 +10,7 @@ Big projects ive been in:
 https://shop.svenskfotboll.se/
 https://shop.neh.com/motionslandslaget/
 
-I have also developed many internal shops for companies which I can not show here :) 
+One of my main responsibilities at my workplace was to develope and maintain our new internal worksystem for our sellers and other workers to use. 
+In this system you can create discount codes, couponcodes, make articles with functions, sizes, prices, pictures, sortiments, sales. You can create users, print articles, renting system for products, check orders, a library with tutorials.
+
+I have also developed many internal shops for companies
