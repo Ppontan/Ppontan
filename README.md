@@ -20,7 +20,7 @@
 https://shop.svenskfotboll.se/<br>
 https://shop.neh.com/motionslandslaget/<br>
 https://shop.neh.com/golfenssmvecka/produkter/85837-produktpaket-golfens-sm-vecka-2023<br>
-(FYI I cant show everything here since a lot of websites are internal websites)
+20+ internal websites for big companies
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Responsibilities:<br>
 One of my main responsibilities at my workplace was to develope and maintain our new internal worksystem for our sellers and other workers. 
