@@ -7,6 +7,9 @@
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Web: HTML, CSS
 
+<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Softwares: vscode, pycharm, notepad++, burpsuite, putty, teamviewer, photoshop, VM, Different applications in kali linux.
+
+
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Skills:
 * Network security & databases
 * Web development and programming
