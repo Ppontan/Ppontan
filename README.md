@@ -25,7 +25,8 @@ https://shop.neh.com/motionslandslaget/<br>
 https://shop.neh.com/golfenssmvecka/produkter/85837-produktpaket-golfens-sm-vecka-2023<br>
 https://shop.neh.com/royalrally/<br>
 
-20+ internal websites for big companies
+* 20+ internal websites for big companies <br>
+* Maintaining 150 + websites
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Responsibilities:<br>
 One of my main responsibilities at my workplace was to develope and maintain our new internal worksystem for our sellers and other workers + creating systems and websites<br>
