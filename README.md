@@ -4,7 +4,7 @@ Contact<br>
 https://www.linkedin.com/in/pontus-eriksson-2b1066218
 https://github.com/Ppontan
     
-Toolset<br>
+🔧Toolset<br>
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">💻</g-emoji> Language: PHP, Python, C#, Javascript.<br>
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">📺</g-emoji> Web: HTML, CSS, Bootstrap<br>
