@@ -2,10 +2,7 @@
 
 Contact
 <p><a href=”https://www.linkedin.com/in/pontus-eriksson-2b1066218/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a></p>
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
+
     
 Toolset<br>
 
