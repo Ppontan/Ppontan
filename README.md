@@ -2,7 +2,7 @@
 
 Contact<br>
 https://www.linkedin.com/in/pontus-eriksson-2b1066218
-
+https://github.com/Ppontan
     
 Toolset<br>
 
@@ -39,4 +39,4 @@ I install and repair/upgrade computers, printers, speakers, wifi systems, Big le
 My Github Stats  ![](https://komarev.com/ghpvc/?username=Ppontan)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan) [![GitHub Streak](https://streak-stats.demolab.com/?user=Ppontan)](https://git.io/streak-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan) [![GitHub Streak](https://streak-stats.demolab.com/?user=Ppontan)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ppontan)](https://github.com/anuraghazra/github-readme-stats)
