@@ -8,7 +8,7 @@ Toolset<br>
 
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">💻</g-emoji> Language: PHP, Python, C#, Javascript.<br>
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">📺</g-emoji> Web: HTML, CSS, Bootstrap<br>
-<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">🖱</g-emoji> Softwares: vscode, pycharm, notepad++, burpsuite, putty, teamviewer, photoshop, VM, Different applications in kali linux. <br>
+<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">🖱</g-emoji> Softwares: vscode, pycharm, notepad++, burpsuite, putty, teamviewer, photoshop, VM, Microsoft Office package, Different applications in kali linux. <br>
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">💿</g-emoji> OS: Windows 7, 8, 10, 11. Raspbian, Kali Linux, Ubuntu.<br>
 
 
