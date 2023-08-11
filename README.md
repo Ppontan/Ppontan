@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pontus+Eriksson+sytem+developer)](https://git.io/typing-svg)
 
 Contact
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[pontus-eriksson-2b1066218]" />
-
+<a href=”https://www.linkedin.com/in/pontus-eriksson-2b1066218/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 Toolset<br>
 
