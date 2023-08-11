@@ -1,12 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pontus+Eriksson+sytem+developer)](https://git.io/typing-svg)
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan)
-
+Toolset
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Language: PHP, Python, C#, Javascript.
-
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Web: HTML, CSS, Bootstrap
-
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Softwares: vscode, pycharm, notepad++, burpsuite, putty, teamviewer, photoshop, VM, Different applications in kali linux.
 
 
@@ -34,5 +30,8 @@ In this system you can create discount codes, couponcodes, make articles with fu
 I install and repair/upgrade computers, printers, speakers, wifi systems, Big led monitors, example Bauhausgalan. 
 
 + Experience with shopify and wordpress
+
+My Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan)
 
 ![](https://komarev.com/ghpvc/?username=Ppontan)
