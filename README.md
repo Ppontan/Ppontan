@@ -37,6 +37,11 @@ I install and repair/upgrade computers, printers, speakers, wifi systems, Big le
 
 + Experience with shopify and wordpress
 
+<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">📒 </g-emoji>Learning:<br>
+*
+*
+*
+
 My Github Stats<br>  
 ![](https://komarev.com/ghpvc/?username=Ppontan) [![Years Badge](https://badges.pufler.dev/years/Ppontan)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/pPontan)](https://badges.pufler.dev) 
 
