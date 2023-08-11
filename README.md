@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pontus+Eriksson+sytem+developer)](https://git.io/typing-svg)
 
 Contact
-<a href=”https://www.linkedin.com/in/pontus-eriksson-2b1066218/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<p><a href=”https://www.linkedin.com/in/pontus-eriksson-2b1066218/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a></p>
 
 Toolset<br>
 
