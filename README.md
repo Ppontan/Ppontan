@@ -12,7 +12,7 @@ Toolset<br>
 <g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">💿</g-emoji>OS: Windows 7, 8, 10, 11. Raspbian, Kali Linux, Ubuntu.<br>
 
 
-<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> Skills:
+<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">💡</g-emoji> Skills:
 * Network security & databases
 * Web development and programming
 * Communication.
@@ -21,7 +21,7 @@ Toolset<br>
 * System developing
 * Azure 
 
-<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji>Big projects:<br>
+<g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">🛠</g-emoji>Big projects:<br>
 https://shop.svenskfotboll.se/<br>
 https://shop.neh.com/motionslandslaget/<br>
 https://shop.neh.com/golfenssmvecka/produkter/85837-produktpaket-golfens-sm-vecka-2023<br>
