@@ -33,6 +33,8 @@ I install and repair/upgrade computers, printers, speakers, wifi systems, Big le
 + Experience with shopify and wordpress
 
 My Github Stats
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan)
 
 ![](https://komarev.com/ghpvc/?username=Ppontan)
