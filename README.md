@@ -43,5 +43,4 @@ https://shop.neh.com/royalrally/<br>
 My Github Stats<br>  
 ![](https://komarev.com/ghpvc/?username=Ppontan) [![Years Badge](https://badges.pufler.dev/years/Ppontan)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/pPontan)](https://badges.pufler.dev) 
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ppontan) [![GitHub Streak](https://streak-stats.demolab.com/?user=Ppontan)](https://git.io/streak-stats)
