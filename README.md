@@ -2,7 +2,7 @@
 
 Contact:<br>
 https://www.linkedin.com/in/pontus-eriksson-2b1066218 <br>
-https://github.com/Ppontan
+https://github.com/Ppontan<br>
 pontus.g.eriksson@gmail.com
 
 My portfolio website:<br>
